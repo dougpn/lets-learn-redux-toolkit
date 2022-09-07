@@ -14,8 +14,8 @@
 </h4>
 
 <p align="center">
-<img width= "250" src="https://user-images.githubusercontent.com/62621650/188876932-b8d73dfe-b956-4740-a2cf-6c4557930a7e.png" />
-<img width= "250" src="https://user-images.githubusercontent.com/62621650/188877175-4ea0a9da-4044-44b4-8dfe-b6a6f4afaf99.png" />
+<img  src="https://user-images.githubusercontent.com/62621650/188876932-b8d73dfe-b956-4740-a2cf-6c4557930a7e.png" />
+<img  src="https://user-images.githubusercontent.com/62621650/188877175-4ea0a9da-4044-44b4-8dfe-b6a6f4afaf99.png" />
 </p>
 
 ### Funções
